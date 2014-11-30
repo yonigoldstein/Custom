@@ -23,7 +23,7 @@
 
 -(IBAction)FirstPressed:(id)sender
 {
-    LabelOne.text = @"Kaboo, FP.";
+    LabelOne.text = @"GITHUB WORKS!";
     [_testOne play];
 }
 
